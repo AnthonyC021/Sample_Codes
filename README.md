@@ -7,7 +7,7 @@ This project aims to implement a NearNeighbor algorithm for efficient similarity
 - Efficient implementation of the NearNeighbor algorithm.
 - Support for high-dimensional data.
 
-##Personal Findings
+## Personal Findings
 However, the time taken for the algorithm was significantly faster
 than their optimal solution time taken. There were instances where the total distance was
 extremely suboptimal in extreme cases like Japan, despite having 10k cities the total distance of
